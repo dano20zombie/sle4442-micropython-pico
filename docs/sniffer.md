@@ -8,7 +8,7 @@ This sniffer passively monitors the **CLK** and **IO** lines between a reader/PC
 
 It is meant for **debugging / educational analysis** on **hardware you own or are explicitly authorized to test**.
 
-> ⚠️ Privacy & safety:
+> Privacy & safety:
 > Smartcard traffic may include **sensitive bytes** during authentication or security operations.
 
 ---
