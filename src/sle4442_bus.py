@@ -155,7 +155,6 @@ class SLE4442Bus:
             if i >= min_pulses and ready:
                 return True
         return False
-        return False
     
     def processing_wait_pulses(self, max_pulses: int = 5000, min_pulses: int = 260) -> int:
         """
@@ -186,6 +185,3 @@ class SLE4442Bus:
         self.send_byte_lsb(addr)
         self.send_byte_lsb(data)
         self.stop_condition()
-
-
-
