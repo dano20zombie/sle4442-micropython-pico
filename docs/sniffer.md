@@ -69,7 +69,7 @@ Recommended options:
 ## Stability notes
 
 In my wiring (3.3V):
-- Added a **1 kΩ series resistor** on **IO / CLK ** between connectors and the Raspberry/Pico
+- Added a **1 kΩ series resistor** on **IO / CLK** between connectors and the Raspberry/Pico
 
 These measures generally help with:
 - edge ringing / overshoot
