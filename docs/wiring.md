@@ -24,6 +24,10 @@ SLE4442 card contact often referenced as:
 
 ![Card Contacts](images/image01.png)
 
+### Functional Description
+
+![Card Contacts](images/image02.png)
+
 ---
 
 ## My direct-to-card wiring (recommended for stability)
