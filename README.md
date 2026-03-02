@@ -11,6 +11,16 @@ This repository includes:
 
 ---
 
+## Datasheet (official)
+
+- **Siemens Semiconductor Group (now Infineon) - “SLE 4432 / SLE 4442, Intelligent 256-Byte EEPROM” (Data Sheet 07.95, PDF)**  
+  https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2585/SLE4432%2C%20SLE4442.pdf
+  
+- **Fallback (landing page): Digi-Key - SLE 4442 C**  
+  https://www.digikey.com/en/products/detail/infineon-technologies/SLE-4442-C/1282585
+  
+---
+
 ## Features
 
 ### Driver
