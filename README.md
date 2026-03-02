@@ -1,6 +1,6 @@
-# SLE4442 MicroPython (Raspberry Pi Pico / Pico W)
+# SLE4432/SLE4442 MicroPython (Raspberry Pi Pico / Pico W)
 
-MicroPython driver + tools for **SLE4442** smartcard memory chips using a **Raspberry Pi Pico / Pico W (RP2040)**.
+MicroPython driver + tools for **SLE4432/SLE4442** smartcard memory chips using a **Raspberry Pi Pico / Pico W (RP2040)**.
 
 This repository includes:
 - A stable bit-banged implementation to **read**, **verify PSC (unlock)** and **write** SLE4442 main memory
