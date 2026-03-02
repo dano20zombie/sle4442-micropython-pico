@@ -22,6 +22,8 @@ SLE4442 card contact often referenced as:
 - **C5 = GND**
 - **C7 = I/O** (my pull-up was placed here)
 
+![Card Contacts](images/image01.png)
+
 ---
 
 ## My direct-to-card wiring (recommended for stability)
